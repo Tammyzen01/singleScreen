@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "node_modules/native-base/Fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Entypo.ttf",
+      "sha1": "47870a67dd50871765f799caa97da87219ee47c5"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Feather.ttf",
+      "sha1": "3eb22bcebf5e6ebd40883e4b92132328c5d6be42"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/FontAwesome5_Brands.ttf",
+      "sha1": "66c86edfd13e63e0e981ce853335c28bc2d20cec"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/FontAwesome5_Regular.ttf",
+      "sha1": "00f569f7d8ac2497a43b25dc4d3b32213bcea31b"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/FontAwesome5_Solid.ttf",
+      "sha1": "ff8f37dfad105796bd924d0db0d37a4ff252618c"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Ionicons.ttf",
+      "sha1": "b5281fbfa43129abc3e412dd938cfcf0b77de999"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/MaterialCommunityIcons.ttf",
+      "sha1": "80a431d6d49861d655009e9491409282d2559591"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/MaterialIcons.ttf",
+      "sha1": "fc05de31234e0090f7ddc28ce1b23af4026cb1da"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Octicons.ttf",
+      "sha1": "28875874413503bcc0810ea2a44dc1b8312c665a"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Roboto.ttf",
+      "sha1": "1d1d41fcadc571decb6444211b7993b99ce926e2"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Roboto_medium.ttf",
+      "sha1": "adbc3bde424bcf7dbc38f148005c8319825891f2"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/rubicon-icon-font.ttf",
+      "sha1": "c168c919afe118a595a948d2cfd8b35babf67a45"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "node_modules/native-base/Fonts/Zocial.ttf",
+      "sha1": "0bda59c7bcd3d3927de047e091875a4428bfd1ab"
+    }
+  ]
+}
